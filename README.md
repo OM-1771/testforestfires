@@ -12,5 +12,8 @@ python app.py
 
 To access your flask application open new tab in and paste the url:
 ```
-https://{your_url}.pwskills.app:5000/
-```
+## Updates
+- Added EDA and Feature Engineering notebook
+- Cleaned dataset loading and preprocessing steps
+
+
