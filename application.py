@@ -36,6 +36,12 @@ def predict_datapoint():
 
     else:
         return render_template('home.html')
+    
+    # if you want see to prediction in case normally you cant reach the page simple do 
+    # http://127.0.0.1:5000/predictdata run on your browser
+    
+
+
 
 
 if __name__=="__main__":
