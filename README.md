@@ -16,4 +16,5 @@ To access your flask application open new tab in and paste the url:
 - Added EDA and Feature Engineering notebook
 - Cleaned dataset loading and preprocessing steps
 
+- Daily progress: precision check and evaluation review
 
