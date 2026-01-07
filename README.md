@@ -18,3 +18,7 @@ To access your flask application open new tab in and paste the url:
 
 - Daily progress: precision check and evaluation review
 
+
+~ Checked precision metric and reviewed evaluation pipeline.
+
+
